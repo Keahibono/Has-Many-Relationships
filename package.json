@@ -1,0 +1,23 @@
+{
+  "name": "has_many_blogs",
+  "version": "1.0.0",
+  "description": "When connecting to your pg database, connect from this project directory.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Keahibono/Has-Many-Relationships.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Keahibono/Has-Many-Relationships/issues"
+  },
+  "homepage": "https://github.com/Keahibono/Has-Many-Relationships#readme",
+  "dependencies": {
+    "pg": "^4.4.0",
+    "pg-hstore": "^2.3.2"
+  }
+}
